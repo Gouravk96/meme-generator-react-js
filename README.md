@@ -1,2 +1,2 @@
 # Meme-Generator
-'![alt text](/media/capture-1.PNG)
+'![alt text](/media/Capture-1.PNG)
