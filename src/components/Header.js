@@ -4,10 +4,10 @@ function Header(){
   return(
     <div>
      <header>
-     <img class="img"
-     src="http://assets.stickpng.com/thumbs/580b585b2edbce24c47b2a27.png"
+     <img className="img"
+     src="https://raw.githubusercontent.com/Gouravk96/meme-generator-react-js/master/src/troll.png"
      alt="problem" />
-     <span>Meme Generator</span>
+     <span id="spn">Meme Generator</span>
      </header>
     </div>
   );
